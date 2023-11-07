@@ -2,6 +2,7 @@ public class Test{
 
 public static void main(String arg[]){
 
-System.out.println("Welcome in Git")
+
+System.out.println("Welcome in Git demo commit")
 }
 }
